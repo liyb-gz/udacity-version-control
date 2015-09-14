@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-A hidden .git folder is created. You want the git to keep track on the folder. 
+A hidden .git folder is created. You want the git to keep track on the folder.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You may add all files related to a particular logical change to the staging area, and commit. You may have other changes, but you can avoid mixing the commit by not adding them into the staging area.
