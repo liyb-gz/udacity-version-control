@@ -19,3 +19,9 @@ When I want to try some new features but would like the main branch to be workin
 How do the diagrams help you visualize the branch structure?
 
 The diagrams makes it clear which commits belongs to which branches.
+
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+One branch is merged into another, and both branches can be accessed by the merged branch. As it saves all changes from both branches.
