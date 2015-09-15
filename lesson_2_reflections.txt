@@ -3,10 +3,19 @@ What happens when you initialize a repository? Why do you need to do it?
 A hidden .git folder is created. You want the git to keep track on the folder.
 
 
+
 How can you use the staging area to make sure you have one commit per logical change?
 
 You may add all files related to a particular logical change to the staging area, and commit. You may have other changes, but you can avoid mixing the commit by not adding them into the staging area.
 
+
+
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-When I want to try some new features but would like the main branch to be working. Branches can help us focus on the changes instead of everything
+When I want to try some new features but would like the main branch to be working. Branches can help us focus on the changes instead of everything.
+
+
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams makes it clear which commits belongs to which branches.
