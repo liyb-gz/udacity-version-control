@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+When I am not in front of my computer but urgent to record a thought; when it is very urgent to fix a bug but, again I am not in front of my computer, etc.
